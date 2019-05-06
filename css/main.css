@@ -135,7 +135,7 @@ video {
   width:200px;
 }
 
-@media only screen and (min-width:400px){
+@media only screen and (min-width:700px){
   .wrapper {
       border: 1px solid black;
       width : 50%;
