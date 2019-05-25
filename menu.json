@@ -1,11 +1,11 @@
 [
     {
         "img": "chicken.jpg",
-        "des":"this is chicken"
+        "des":"this is chicken",
     }
     {
         "img": "sauced pork chop.jpg",
-        "des":"this is pork chop"
+        "des":"this is pork chop",
     }
     {
         "img": "pie.jpg",
